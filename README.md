@@ -1,4 +1,4 @@
 # CRB-biology-2024
 
-https://aubreymoore.github.io/CRB-biology-2024/reveal.js/CRB-biology-2024.html
+https://aubreymoore.github.io/CRB-biology-2024/reveal.js/crb-biology-2024.html
 
